@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome by Gowtham
+          Welcome by Gowtham M
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <a
